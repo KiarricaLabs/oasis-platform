@@ -197,6 +197,7 @@ ELEVENLABS_VOICES: tuple[VoiceOption, ...] = (
     VoiceOption("charlie", "Charlie (Male)", "elevenlabs"),
     VoiceOption("bill", "Bill (Male)", "elevenlabs"),
     VoiceOption("george", "George (Male)", "elevenlabs"),
+    VoiceOption("kiarrica", "Kiarrica", "elevenlabs"),
 )
 
 CARTESIA_VOICES: tuple[VoiceOption, ...] = (

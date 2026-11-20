@@ -1624,6 +1624,7 @@ _ELEVENLABS_VOICES = {
     "lily": "pFZP5JQG7iQjIQuC4Bku",
     "sarah": "EXAVITQu4vr4xnSDxMaL",
     "chris": "iP95p4xoKVk53GoZ742B",
+    "kiarrica": "AhceSo1GlaTsfCzefGz9",
 }
 
 

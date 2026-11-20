@@ -52,3 +52,6 @@ GOVERNANCE.md
 
 # Paper draft (private, not for publication in repo yet)
 draft/
+# Local test audio
+*.aiff
+*.wav
